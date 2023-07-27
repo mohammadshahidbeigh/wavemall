@@ -12,7 +12,7 @@ Wave Mall Clothes is a fictional online shopping website for men's clothing. Thi
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Technologies] (#technologies) 
+4. [Technologies](#technologies) 
 5. [Usage](#usage)
 6. [Shop Items Data](#shop-items-data)
 7. [Contributing](#contributing)
