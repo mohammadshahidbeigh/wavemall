@@ -12,9 +12,10 @@ Wave Mall Clothes is a fictional online shopping website for men's clothing. Thi
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Shop Items Data](#shop-items-data)
-6. [Contributing](#contributing)
+4. [Technologies] (#technologies) 
+5. [Usage](#usage)
+6. [Shop Items Data](#shop-items-data)
+7. [Contributing](#contributing)
 
 ## Introduction
 
@@ -34,6 +35,15 @@ To run the website locally, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Open the project folder in Visual Studio Code or any code editor of your choice.
+
+
+## Technologies
+
+The website is built using the following technologies:
+
+- **`HTML`** 
+- **`CSS`** 
+- **`JavaScript`**
 
 ## Usage
 
