@@ -1,11 +1,11 @@
-# Wave Mall Clothes
+# Wave Mall Store
 
 ![Screenshot_20230727_222927](https://github.com/MohammadShahidBeigh/Wave-Mall-Clothes/assets/85876937/03284440-760e-4492-a926-b4831da15176)
 
 
 ## Description
 
-Wave Mall Clothes is a fictional online shopping website for men's clothing. This repository contains the HTML, CSS, and JavaScript code that builds the website. It provides a user interface for browsing and purchasing various clothing items.
+Wave Mall Store is a fictional online shopping website for men's clothing. This repository contains the HTML, CSS, and JavaScript code that builds the website. It provides a user interface for browsing and purchasing various clothing items.
 
 ## Table of Contents
 
