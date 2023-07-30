@@ -1,6 +1,8 @@
 # Wave Mall Store
 
-![Screenshot_20230727_222927](https://github.com/MohammadShahidBeigh/Wave-Mall-Clothes/assets/85876937/03284440-760e-4492-a926-b4831da15176)
+
+![Screenshot_20230730_125840](https://github.com/MohammadShahidBeigh/wavemall/assets/85876937/5bcbc53f-ebad-4072-bf66-49410bcaef57)
+
 
 
 ## Description
