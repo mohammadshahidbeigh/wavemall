@@ -1,4 +1,4 @@
-# Wave Mall Store 👀
+# Wave Mall Store 
 
 
 ![Screenshot_20230730_125840](https://github.com/MohammadShahidBeigh/wavemall/assets/85876937/5bcbc53f-ebad-4072-bf66-49410bcaef57)
